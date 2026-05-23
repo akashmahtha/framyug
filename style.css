@@ -556,6 +556,30 @@ nav ul li a:hover {
 
 @media(max-width:600px) {
 
+    .footer-container {
+        grid-template-columns: 1fr;
+        padding: 0 5% 40px;
+    }
+
+    .footer-box a {
+        display: inline-block;
+        margin-right: 14px;
+    }
+
+    .newsletter {
+        flex-direction: column;
+        align-items: stretch;
+    }
+
+    .newsletter input {
+        border-radius: 6px;
+        margin-bottom: 10px;
+    }
+
+    .newsletter button {
+        border-radius: 6px;
+    }
+
     .why-section h2,
     .products h2,
     .about-content h2,

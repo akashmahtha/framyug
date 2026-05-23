@@ -1,0 +1,26 @@
+Navbar links:
+- Home
+- About Us
+- Products
+- Benefits
+- Blog
+- Contact Us
+
+Footer links:
+Quick Links
+- Home
+- About Us
+- Products
+- Benefits
+- Blog
+- Contact Us
+
+Our Products
+- Classic Makhana
+- Masala Makhana
+- Roasted Makhana
+- Premium Combo Pack
+
+Newsletter
+- Email input + Subscribe button
+
